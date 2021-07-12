@@ -4,23 +4,23 @@
 
 2- download python
 
-2- clan live STT code from GitHub
+3- clan live STT code from GitHub
 
-3- install requirements but here we have get some issues because of pip command 
+4- install requirements but here we have get some issues because of pip command 
 
-4- instead of that we  download brew
+5- instead of that we  download brew
 
-5- update the setup code 
+6- update the setup code 
 
-6- run live streaming 
+7- run live streaming 
 
-7- save the trans into txt file
+8- save the trans into txt file
 
-8- setup TTS servies
+9- setup TTS servies
 
-9- update the code to TTS 
+10- update the code to TTS 
 
-10- save the file as mp3
+11- save the file as mp3
 
 Team partner: 
 شمائل حسن سندي 
