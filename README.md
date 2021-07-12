@@ -29,4 +29,5 @@ https://github.com/Shamayel-sanadi
 
 Sources:
 https://github.com/IBM/Watson-streaming-stt
+
 https://github.com/nicknochnack/TextToSpeech/blob/master/Text-to-Speech.ipynb
